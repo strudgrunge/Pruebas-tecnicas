@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.56" height="33.942" viewBox="0 0 35.56 33.942">
+  <g id="Group_1974" data-name="Group 1974" transform="translate(-3.612 -4.422)">
+    <g id="Group_1973" data-name="Group 1973" transform="translate(3.612 4.422)">
+      <g id="Group_1970" data-name="Group 1970">
+        <path id="Path_1160" data-name="Path 1160" d="M97.331,290.6H83.7a10.98,10.98,0,0,1-10.967-10.967V267.626A10.98,10.98,0,0,1,83.7,256.659H97.331A10.98,10.98,0,0,1,108.3,267.626v12.008A10.98,10.98,0,0,1,97.331,290.6ZM83.7,259.1a8.539,8.539,0,0,0-8.53,8.53v12.008a8.539,8.539,0,0,0,8.53,8.53H97.331a8.54,8.54,0,0,0,8.53-8.53V267.626a8.54,8.54,0,0,0-8.53-8.53Z" transform="translate(-72.737 -256.659)" fill="#2d2234"/>
+      </g>
+      <g id="Group_1971" data-name="Group 1971" transform="translate(8.018 7.208)">
+        <path id="Path_1161" data-name="Path 1161" d="M108.1,299.2a9.763,9.763,0,1,1,9.762-9.762A9.773,9.773,0,0,1,108.1,299.2Zm0-17.088a7.325,7.325,0,1,0,7.325,7.325A7.333,7.333,0,0,0,108.1,282.107Z" transform="translate(-98.333 -279.67)" fill="#2d2234"/>
+      </g>
+      <g id="Group_1972" data-name="Group 1972" transform="translate(25.368 5.483)">
+        <path id="Path_1162" data-name="Path 1162" d="M157.768,276.188a2.026,2.026,0,1,1-2.025-2.026A2.025,2.025,0,0,1,157.768,276.188Z" transform="translate(-153.717 -274.162)" fill="#2d2234"/>
+      </g>
+    </g>
+  </g>
+</svg>
